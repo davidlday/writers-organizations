@@ -1,8 +1,23 @@
 ---
 layout: default
-title: Professional Organizations for Fiction Writers
 ---
-<div class="blurb">
-	<h1>Professional Organizations</h1>
-	<p>The scope covers any 501(c) non-profit organization incorporated in the US whose primary purpose is related to supporting fiction writers.</p>
+
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
 </div>
