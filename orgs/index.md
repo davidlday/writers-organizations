@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Organizations
-permalink: /orgs/
 ---
 
 Available organizations:
