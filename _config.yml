@@ -10,8 +10,13 @@ title: Writers' Organizations
 email: david@davidlday.com
 description: > # this means to ignore newlines until "baseurl:"
   A directory of US nonprofit professional organizations for writers of fiction prose and poetry.
+<<<<<<< HEAD
 baseurl: "/writers-organizations" # the subpath of your site, e.g. /blog
 url: "http://davidlday.github.io" # the base hostname & protocol for your site
+=======
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+>>>>>>> fc8d2307d58f60889c8916143d2227bee9a8221b
 twitter_username: dday376
 github_username:  davidlday
 
