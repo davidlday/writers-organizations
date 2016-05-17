@@ -3,8 +3,6 @@ layout: page
 title: Organizations
 ---
 
-Available organizations:
-
 {% assign orgs = site.data.organizations | sort: name %}
 
 {% for orghash in orgs %}

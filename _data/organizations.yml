@@ -44,16 +44,173 @@ mwa:
 
 
 #itw,ITW,International Thriller Writers,501(c)(6),Delaware,2004,N,13-4287988,http://thrillerwriters.org/,http://thrillerwriters.org/about-itw/bylaws/,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/134287988,https://projects.propublica.org/nonprofits/organizations/134287988,http://www.guidestar.org/profile/13-4287988
+
+itw:
+  acronym: ITW
+  name: International Thriller Writers
+  irc: 501(c)(6)
+  incorporated_state: Delaware
+  year_formed: 2004
+  paid_offices: N
+  ein: 13-4287988
+  url: http://thrillerwriters.org/
+  bylaws_url: http://thrillerwriters.org/about-itw/bylaws/
+
+
 #ag,AG,Authors Guild,501(c)(3),New York,1964,Y,13-2509231,https://www.authorsguild.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/132509231,https://projects.propublica.org/nonprofits/organizations/132509231,http://www.guidestar.org/profile/13-2509231
+
+ag:
+  acronym: AG
+  name: Authors Guild
+  irc: 501(c)(3)
+  incorporated_state: New York
+  year_formed: 1964
+  paid_offices: Y
+  ein: 13-2509231
+  url: https://www.authorsguild.org
+  bylaws_url:
+
 #ninc,NINC,"Novelists, Inc",501(c)(3),Kansas,1993,N,48-1134356,http://ninc.com/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/481134356,https://projects.propublica.org/nonprofits/organizations/481134356,http://www.guidestar.org/profile/48-1134356
+
+ninc:
+  acronym: NINC
+  name: Novelists, Inc
+  irc: 501(c)(3)
+  incorporated_state: Kansas
+  year_formed: 1993
+  paid_offices: N
+  ein: 48-1134356
+  url: http://ninc.com/
+  bylaws_url:
+
 #scbwi,SCBWI,Society of Children's Book Writers & Illustrators,501(c)(3),California,2009,Y,30-0456551,http://www.scbwi.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/300456551,https://projects.propublica.org/nonprofits/organizations/300456551,http://www.guidestar.org/profile/30-0456551
+
+scbwi:
+  acronym: SCBWI
+  name: Society of Children's Book Writers & Illustrators
+  irc: 501(c)(3)
+  incorporated_state: California
+  year_formed: 2009
+  paid_offices: Y
+  ein: 30-0456551
+  url: http://www.scbwi.org/
+  bylaws_url:
+
 #lsfw,LSFW,Liberty States Fiction Writers,501(c)(3),New Jersey,2009,,94-3460804,http://www.libertystatesfictionwriters.com/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/943460804,https://projects.propublica.org/nonprofits/organizations/943460804,http://www.guidestar.org/profile/94-3460804
+
+lsfw:
+  acronym: LSFW
+  name: Liberty States Fiction Writers
+  irc: 501(c)(3)
+  incorporated_state: New Jersey
+  year_formed: 2009
+  paid_offices:
+  ein: 94-3460804
+  url: http://www.libertystatesfictionwriters.com/
+  bylaws_url:
+
 #sinc,SINC,Sisters in Crime,501(c)(6),New Jersey,1990,,58-1935531,http://www.sistersincrime.org/,http://www.sistersincrime.org/?page=9,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/581935531,https://projects.propublica.org/nonprofits/organizations/581935531,http://www.guidestar.org/profile/58-1935531
+
+sinc:
+  acronym: SINC
+  name: Sisters in Crime
+  irc: 501(c)(6)
+  incorporated_state: New Jersey
+  year_formed: 1990
+  paid_offices:
+  ein: 58-1935531
+  url: http://www.sistersincrime.org/
+  bylaws_url: http://www.sistersincrime.org/?page=9
+
 #awp,AWP,Association of Writers and Writing Programs,501(c)(3),Virginia,1967,Y,05-0314999,https://www.awpwriter.org/,https://www.awpwriter.org/about/governance_articles_bylaws,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/050314999,https://projects.propublica.org/nonprofits/organizations/050314999,http://www.guidestar.org/profile/05-0314999
+
+awp:
+  acronym: AWP
+  name: Association of Writers and Writing Programs
+  irc: 501(c)(3)
+  incorporated_state: Virginia
+  year_formed: 1967
+  paid_offices: Y
+  ein: 05-0314999
+  url: https://www.awpwriter.org/
+  bylaws_url: https://www.awpwriter.org/about/governance_articles_bylaws
+
 #wwa,WWA,Western Writers Association,501(c)(6),Colorado,1953,Y,94-6084130,http://westernwriters.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/946084130,https://projects.propublica.org/nonprofits/organizations/946084130,http://www.guidestar.org/profile/94-6084130
+
+wwa:
+  acronym: WWA
+  name: Western Writers Association
+  irc: 501(c)(6)
+  incorporated_state: Colorado
+  year_formed: 1953
+  paid_offices: Y
+  ein: 94-6084130
+  url: http://westernwriters.org/
+  bylaws_url:
+
 #rmfw,RMFW,Rocky Mountain Fiction Writers,501(c)(6),Colorado,1986,,84-1434454,http://rmfw.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/841434454,https://projects.propublica.org/nonprofits/organizations/841434454,http://www.guidestar.org/profile/84-1434454
+
+rmfw:
+  acronym: RMFW
+  name: Rocky Mountain Fiction Writers
+  irc: 501(c)(6)
+  incorporated_state: Colorado
+  year_formed: 1986
+  paid_offices:
+  ein: 84-1434454
+  url: http://rmfw.org/
+  bylaws_url:
+
 #ppw,PPW,Pikes Peak Writers,501(c)(3),Colorado,2002,,75-2977697,http://www.pikespeakwriters.com/,http://www.pikespeakwriters.com/wp-content/uploads/2015/09/PPW-Bylaws-2015-09-23.pdf,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/752977697,https://projects.propublica.org/nonprofits/organizations/752977697,http://www.guidestar.org/profile/75-2977697
+
+ppw:
+  acronym: PPW
+  name: Pikes Peak Writers
+  irc: 501(c)(3)
+  incorporated_state: Colorado
+  year_formed: 2002
+  paid_offices:
+  ein: 75-2977697
+  url: http://www.pikespeakwriters.com/
+  bylaws_url: http://www.pikespeakwriters.com/wp-content/uploads/2015/09/PPW-Bylaws-2015-09-23.pdf
+
 #penw,PENW,"Pennwriters, Inc",501(c)(3),Pennsylvania,1989,N,25-1632709,http://pennwriters.org/,http://pennwriters.org/about/pennwriters-bylaws/,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/251632709,https://projects.propublica.org/nonprofits/organizations/251632709,http://www.guidestar.org/profile/25-1632709
+
+penw:
+  acronym: PENW
+  name: Pennwriters, Inc
+  irc: 501(c)(3)
+  incorporated_state: Pennsylvania
+  year_formed: 1989
+  paid_offices: N
+  ein: 25-1632709
+  url: http://pennwriters.org/
+  bylaws_url: http://pennwriters.org/about/pennwriters-bylaws/
+
 #lvw,LVW,Ligonier Valley Writers,501(c)(3),Pennsylvania,1989,,25-1662315,http://www.lvwonline.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/251662315,https://projects.propublica.org/nonprofits/organizations/251662315,http://www.guidestar.org/profile/25-1662315
+
+lvw:
+  acronym: LVW
+  name: Ligonier Valley Writers
+  irc: 501(c)(3)
+  incorporated_state: Pennsylvania
+  year_formed: 1989
+  paid_offices:
+  ein: 25-1662315
+  url: http://www.lvwonline.org/
+  bylaws_url:
+
 #iwwg,IWWG,International Women's Writing Guild,501(c)(3),New York,1994,,13-2964947,https://iwwg.wildapricot.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/132964947,https://projects.propublica.org/nonprofits/organizations/132964947,http://www.guidestar.org/profile/13-2964947
+
+iwwg:
+  acronym: IWWG
+  name: International Women's Writing Guild
+  irc: 501(c)(3)
+  incorporated_state: New York
+  year_formed: 1994
+  paid_offices:
+  ein: 13-2964947
+  url: https://iwwg.wildapricot.org/
+  bylaws_url:
+
 #hns,HNS,Historical Novel Society,,,,,,https://historicalnovelsociety.org/,,http://nccsweb.urban.org/communityplatform/nccs/organization/profile/id/,https://projects.propublica.org/nonprofits/organizations/,http://www.guidestar.org/profile/
