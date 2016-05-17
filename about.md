@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+So far, I've been unable to find an authoritative listing of incorporated US writers organizations. As a writer, knowing which organizations to join can be challenging. For instance, some of these organizations have missions focused on helping writers build careers, other have missions focused on promoting a genre. Either one could be beneficial to a writer.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I believe every writer should have a set of facts about an organization to help them decide which to join. This site's goal is to become a central reference for critical facts about the listed organizations.
