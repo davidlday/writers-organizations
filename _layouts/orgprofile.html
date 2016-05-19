@@ -12,7 +12,7 @@ layout: default
   <div class="post-content">
     <p>{{ org.description }}</p>
     <div class="org-details">
-      <h2 class="post-title">Organization Details:</h1>
+      <h2>In Brief</h1>
       <ul>
           <li>Year Formed: {{ org.year_formed }}</li>
           <li>Tax Code Designation: {{ org.irc }} (<a href="http://nccsdataweb.urban.org/PubApps/nonprofit-overview.php" target="ref">See NCCS</a>)</li>
@@ -21,14 +21,18 @@ layout: default
           <li>Home Page: <a href="{{ org.url }}" target="{{ org.acronym }}">{{ org.url }}</a></li>
           <li>ByLaws: <a href="{{ org.bylaws_url }}" target="{{ org.acronym }}">{{ org.bylaws_url }}</a></li>
       </ul>
-      <h2 class="post-title">Public Resources:</h1>
+    </div>
+    <div class="org-content">
+    {{ content }}
+    </div>
+    <div class="org-resources">
+      <h2>Additional Resources</h1>
       <ul>
           <li><a href="{{ site.nccs_url }}{{ org.ein | remove: '-' }}" target="{{ org.acronym }}">National Center for Charitable Statistics</a></li>
           <li><a href="{{ site.propublica_url }}{{ org.ein | remove: '-' }}" target="{{ org.acronym }}">ProPublica Nonprofit Explorer</a></li>
           <li><a href="{{ site.guidestar_url }}{{ org.ein }}" target="{{ org.acronym }}">GuideStar</a></li>
       </ul>
     </div>
-    {{ content }}
   </div>
 
 </article>

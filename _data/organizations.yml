@@ -19,6 +19,14 @@ hwa:
   ein: 34-1564274
   url: http://horror.org/
   bylaws_url: http://horror.org/bylaws.pdf
+  financial:
+    fiscal_year: 2013
+    revenue:
+      totcntrbs: 131048
+      othrinvstinc: 121
+      othrevnue: 152
+      totrevnue: 131321
+    expenses:
 
 sfwa:
   acronym: SFWA
